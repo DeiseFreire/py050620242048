@@ -34,4 +34,6 @@ Soma:
 ```
 python soma_numeros.py
 ```
+## :two_hearts: Badges
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) ![brazil](https://github.com/pedromxavier/flag-badges/raw/main/badges/BR.svg) 
 
