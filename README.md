@@ -1,6 +1,6 @@
 ## 💕 Soma Dois Números Inteiros
 
-:**Descrição:**
+**Descrição:**
 
 Este programa em Python solicita ao usuário dois números inteiros, calcula a sua soma e imprime o resultado na tela.
 
